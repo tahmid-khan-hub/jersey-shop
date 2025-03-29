@@ -1,0 +1,5 @@
+.jersey-card-container{
+    border: 2px solid greenyellow;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}

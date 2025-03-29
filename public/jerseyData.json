@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://blackbud.com.bd/wp-content/uploads/2023/06/psg-new.jpg",
+    "team": "Paris Saint-Germain",
+    "price": 79.99,
+    "ratings": 4.5,
+    "sizes": ["S", "M", "L", "XL"],
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "image": "https://us.shop.realmadrid.com/_next/image?url=https%3A%2F%2Flegends.broadleafcloud.com%2Fapi%2Fasset%2Fcontent%2FRMCFMZ0195-01-1.jpg%3FcontextRequest%3D%257B%2522forceCatalogForFetch%2522%3Afalse%2C%2522forceFilterByCatalogIncludeInheritance%2522%3Afalse%2C%2522forceFilterByCatalogExcludeInheritance%2522%3Afalse%2C%2522applicationId%2522%3A%252201H4RD9NXMKQBQ1WVKM1181VD8%2522%2C%2522tenantId%2522%3A%2522REAL_MADRID%2522%257D&w=1200&q=50",
+    "team": "Real Madrid",
+    "price": 89.99,
+    "ratings": 4.7,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "quantity": 15
+  },
+  {
+    "id": 3,
+    "image": "https://assets.adidas.com/images/w_1880,f_auto,q_auto/fe0ce38456ab4ad2871bafc400cca89d_9366/IP1736_01_laydown.jpg",
+    "team": "Manchester United",
+    "price": 74.99,
+    "ratings": 4.6,
+    "sizes": ["M", "L", "XL"],
+    "quantity": 8
+  },
+  {
+    "id": 4,
+    "image": "https://store.fcbarcelona.com/cdn/shop/files/25100BWC_1.jpg?v=1733397332&width=1946",
+    "team": "FC Barcelona",
+    "price": 84.99,
+    "ratings": 4.8,
+    "sizes": ["S", "M", "L", "XL"],
+    "quantity": 12
+  },
+  {
+    "id": 5,
+    "image": "https://diamu.com.bd/wp-content/uploads/2024/07/Liverpool-Nike-Home-Stadium-Shirt-2024-25-Kids.jpg",
+    "team": "Liverpool",
+    "price": 79.99,
+    "ratings": 4.5,
+    "sizes": ["S", "M", "L"],
+    "quantity": 9
+  },
+  {
+    "id": 6,
+    "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9a55e527ccdf468b8470ae690130b9dc_9366/FC_Bayern_22-23_Home_Jersey_Red_H39900_01_laydown.jpg",
+    "team": "Bayern Munich",
+    "price": 85.99,
+    "ratings": 4.9,
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "quantity": 20
+  },
+  {
+    "id": 7,
+    "image": "https://diamu.com.bd/wp-content/uploads/2023/06/Juventus-Home-Jersey-2023-24.jpg",
+    "team": "Juventus",
+    "price": 76.99,
+    "ratings": 4.4,
+    "sizes": ["M", "L", "XL"],
+    "quantity": 7
+  },
+  {
+    "id": 8,
+    "image": "https://thumblr.uniid.it/product/182680/41d29d84d435.jpg?width=3840&format=webp&q=75",
+    "team": "Chelsea",
+    "price": 78.99,
+    "ratings": 4.6,
+    "sizes": ["S", "M", "L", "XL"],
+    "quantity": 14
+  }
+]
