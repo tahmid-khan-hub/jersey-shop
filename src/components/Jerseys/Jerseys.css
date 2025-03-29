@@ -2,4 +2,7 @@
     border: 2px solid greenyellow;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    padding: 16px;
+    border-radius: 15px;
+    /* box-shadow: 10px 10px 10px 5px darksalmon; */
 }
