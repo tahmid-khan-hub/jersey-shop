@@ -1,10 +1,10 @@
 import React from 'react';
 import './Jersey.css'
 
-const Jersey = ({jersey}) => {
+const Jersey = ({jersey, handleAddToCart}) => {
     console.log(jersey);
 
-    const {image, team, price, ratings, sizes, quantity} = jersey;
+    const {image, team, price, ratings, quantity} = jersey;
 
     return (
         <div className='jersey-card'>
@@ -14,7 +14,7 @@ const Jersey = ({jersey}) => {
             <p>ratings: {ratings}</p>
             <h3>Available: {quantity}</h3>
             {/* <p id='sizes'>sizes: {sizes}</p> */}
-            <button>Buy Now</button>
+            <button onClick={()=> handleAddToCart(jersey)}>Buy Now</button>
         </div>
     );
 };
